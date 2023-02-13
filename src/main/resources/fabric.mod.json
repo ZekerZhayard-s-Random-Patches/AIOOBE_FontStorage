@@ -1,0 +1,16 @@
+{
+    "schemaVersion": 1,
+    "id": "aioobe_fontstorage",
+    "version": "${version}",
+    "name": "AIOOBE_FontStorage",
+    "description": "",
+    "authors": [
+        "ZekerZhayard"
+    ],
+    "contact": {},
+    "license": "All-Rights-Reserved",
+    "environment": "*",
+    "mixins": [
+        "aioobe_fontstorage.mixins.json"
+    ]
+}

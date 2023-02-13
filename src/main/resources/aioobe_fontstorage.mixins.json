@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "io.github.zekerzhayard.aioobe_fontstorage.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "client": [
+        "MixinFontStorage"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    },
+    "plugin": "io.github.zekerzhayard.aioobe_fontstorage.MixinConfigPlugin"
+}
